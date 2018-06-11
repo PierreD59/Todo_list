@@ -1,0 +1,47 @@
+.Top {
+background-color : rgb(255,0,0,0.75);
+height: 200px;
+}
+
+#Top_title {
+color: white;
+font-size: 45pt;
+text-align: center;
+padding-top: 60px;
+font-family: "Arial";
+
+}
+#Top_text {
+color: white;
+font-size:12pt;
+text-align: center;
+font-family: "Arial";
+
+}
+
+.list1 {
+background-color: rgb(236,236,236);
+margin-left: 150px;
+height:150px;
+width: 300px;
+border-radius: 10px;
+
+
+
+}
+
+#title_list {
+text-align: center;
+margin-top: 50px;
+font-family: "Arial";
+font-size: 12pt;
+padding-top: 20px;
+}
+
+#list {
+  text-align: center;
+  font-family: "Arial";
+  font-size: 10pt;
+  padding-right:20px;
+
+}
